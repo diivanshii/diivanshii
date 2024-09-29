@@ -1,4 +1,3 @@
-# divanshimamodia
 <h1 align="center">Hi 👋, I'm Divanshi Mamodia</h1>
 <h3 align="center">An aspiring Data Analyst</h3>
 
