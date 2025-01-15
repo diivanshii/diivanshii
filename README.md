@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divanshi Mamodia</h1>
 <h3 align="center">An aspiring Data Analyst</h3>
 
-- 🔭 I’m currently working on **Music Store Data Analysis Project using SQL**
-
-- 🌱 I’m currently learning **Data Analytics**
-
-- 👯 I’m looking to collaborate on **Face Detection and Blurring using MATLAB**
-
-- 🤝 I’m looking for help with **Obstacle Avoidance Robot Using Python**
+- 🔭 I’m currently working towards becoming a data analyst.
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/diivanshii)
 
